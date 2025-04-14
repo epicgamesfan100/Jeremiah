@@ -1,0 +1,46 @@
+body {
+  background-color: #ADD6E8;
+}
+
+h1 {
+  color: black;
+  font-family: Cursive;
+  font-weight: bold;
+}
+
+h2 {
+  color: black;
+  font-family: Cursive;
+  font-weight: bold;
+}
+
+p {
+  font-family: Cursive;
+  font-weight: 350;
+}
+
+img {
+  max-height: 100;
+  max-width: 100;
+}
+
+button {
+  font-family: Cursive;
+  font-weight: bold;
+  max-height: auto;
+  max-width: 100;
+}
+
+li {
+  color: black;
+  font-family: Cursive;
+  font-weight: 350;
+}
+
+hr {
+  color: black;
+}
+
+ul {
+  color: black;
+}
